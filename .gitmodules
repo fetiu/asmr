@@ -1,0 +1,6 @@
+[submodule "wasm-micro-runtime"]
+	path = wasm-micro-runtime
+	url = git@github.com:bytecodealliance/wasm-micro-runtime.git
+[submodule "assemblyscript"]
+	path = assemblyscript
+	url = git@github.com:AssemblyScript/assemblyscript.git
